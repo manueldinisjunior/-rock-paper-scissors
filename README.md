@@ -7,6 +7,11 @@ A classic game brought to life with JavaScript, where rock crushes scissors, sci
 - HTML
 - CSS
 - JavaScript
+- Github
+  
+## Gamer Interface
+
+![Game Screenshot](https://github.com/manueldinisjunior/rock-paper-scissors/blob/main/images/Rock%2C%20Paper%2C%20Scissors%21.jpg)
 
 ## How to Play
 
@@ -20,10 +25,6 @@ A classic game brought to life with JavaScript, where rock crushes scissors, sci
 - Randomized computer choices.
 - Instant results display.
 
-## Screenshots
-
-![Game Screenshot](https://github.com/manueldinisjunior/rock-paper-scissors/blob/main/images/Rock%2C%20Paper%2C%20Scissors%21.jpg)
-
 ## Issues
 
 Report issues [here](https://github.com/manueldinisjunior/rock-paper-scissors/issues).
@@ -36,6 +37,7 @@ Contributions are welcome! Fork the repository and submit a pull request.
 
 - [Website](https://www.manueldinisjunior.com/)
 - [LinkedIn](https://www.linkedin.com/in/manueldinisjunior)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/manueldinisjunior)
 
 ## License
 
