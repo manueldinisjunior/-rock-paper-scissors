@@ -21,7 +21,7 @@ A classic game brought to life with JavaScript, where rock crushes scissors, sci
 
 ## Features
 
-- Simple and intuitive UI.
+- Simple and intuitive UI. 
 - Randomized computer choices.
 - Instant results display.
 
