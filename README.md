@@ -1,6 +1,6 @@
 # Rock Paper and Scissors! Game
 
-A classic game brought to life with JavaScript, where rock crushes scissors, scissors cuts paper, and paper covers rock.
+A classic game brought to life with JavaScript, where rock crushes scissors, scissors cuts paper, and paper covers rock. 
 
 ## Tech Stack
 
