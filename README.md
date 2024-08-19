@@ -2,7 +2,7 @@
 
 A classic game brought to life with JavaScript, where rock crushes scissors, scissors cuts paper, and paper covers rock. 
 
-## Tech Stack
+## Used Tech Stack
 
 - HTML
 - CSS
