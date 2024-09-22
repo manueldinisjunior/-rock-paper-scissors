@@ -1,6 +1,6 @@
 // Function to write text before game starts
 let i = 0;
-let txt = 'Rock, Paper, Scissors?';
+let txt = 'Stein, Papier, Schere?';
 let speed = 50;
 
 function typeWriter() {
